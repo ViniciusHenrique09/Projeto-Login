@@ -24,9 +24,9 @@ main{
 
 section#login{
     position: absolute;
-    top: 45%;
+    top: 50%;
     left: 50%;
-    transform: translate(-45%, -55%);
+    transform: translate(-50%, -50%);
     overflow: hidden;
 
     backdrop-filter: blur(1px);
