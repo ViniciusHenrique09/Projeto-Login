@@ -1,0 +1,45 @@
+@charset "UTF-8";
+
+@media screen and (min-width: 768px) and (max-width: 992px){
+    body{
+        background: url(../imagens/background-tablet.jpg) no-repeat;
+        background-position: right center;
+        background-size: cover;
+    }
+    section#login{
+        width: 80vw;
+    }
+
+    section#login > div#imagem{
+        float: left;
+        width: 40%;
+        height: 100%;
+    }
+
+    section#login > div#formulario{
+        float: right;
+        width: 60%;
+    }
+}
+
+@media screen and (min-width: 992px){
+    body{
+        background: url(../imagens/background-tv.jpg) no-repeat;
+        background-position: left bottom;
+        background-size: cover;
+    }
+    section#login{
+        width: 950px;
+    }
+
+    section#login > div#imagem{
+        float: left;
+        width: 50%;
+        height: 100%;
+    }
+
+    section#login > div#formulario{
+        float: right;
+        width: 50%;
+    }
+}
