@@ -1,5 +1,16 @@
 @charset "UTF-8";
 
+/* Todas as demais midias */
+
+/* Typical Device BreakPoints
+-----------------------------
+Telas pequenas: Até 600px
+Celulares: de 600px até 768px
+Tablets: de 768px até 992px
+Desktops: de 992px até 1200px
+Grandes Telas (Tvs): acima de 1200px
+*/
+
 *{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     padding: 0px;

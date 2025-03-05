@@ -8,7 +8,7 @@
     }
     section#login{
         width: 80vw;
-        height: 310px;
+        height: 330px;
     }
 
     section#login > div#imagem{
@@ -30,7 +30,7 @@
 
     form > a.botao2 {
         font-size: 1em;
-        transform: translateX(330px);
+        transform: translateX(240px);
     }
 }
 
