@@ -8,6 +8,7 @@
     }
     section#login{
         width: 80vw;
+        height: 310px;
     }
 
     section#login > div#imagem{
@@ -24,6 +25,12 @@
     div#formulario > p{
         font-size: 1em;
         text-align: justify;
+        text-indent: 5px;
+    }
+
+    form > a.botao2 {
+        font-size: 1em;
+        transform: translateX(330px);
     }
 }
 
@@ -35,6 +42,7 @@
     }
     section#login{
         width: 950px;
+        height: 340px;
     }
 
     section#login > div#imagem{
@@ -49,11 +57,17 @@
     }
     
     div#formulario > h1 {
-        font-size: 2em;
+        font-size: 1.6em;
     }
 
     div#formulario > p {
-        font-size: 1.2em;
+        font-size: 1.1em;
         margin-bottom: 10px;
+        text-indent: 5px;
+    }
+
+    form > a.botao2 {
+        font-size: 1em;
+        transform: translateX(335px);
     }
 }
