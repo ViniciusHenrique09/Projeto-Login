@@ -146,7 +146,7 @@ form > a.botao:hover{
 form > a.botao2 {
     display: block;
     width: 50%;
-    font-size: 1em;
+    font-size: 0.9em;
     text-decoration: none;
     padding-top: 9px;
     margin-top: 5px;
